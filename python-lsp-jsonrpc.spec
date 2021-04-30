@@ -42,6 +42,7 @@ python components for the python-lsp-jsonrpc package.
 Summary: python3 components for the python-lsp-jsonrpc package.
 Group: Default
 Requires: python3-core
+Provides: pypi(python_lsp_jsonrpc)
 
 %description python3
 python3 components for the python-lsp-jsonrpc package.
